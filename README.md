@@ -21,7 +21,7 @@ Buat file baru dengan nama **home.php**
 Buat file baru dengan nama **header.php**
 ![3](https://user-images.githubusercontent.com/56379930/121115696-a3b56100-c83f-11eb-9304-7be0300cf07a.png)
 # Langkah 6
-buat file baru dengan nama **home.php**
+buat file baru dengan nama **about.php**
 ![aboout](https://user-images.githubusercontent.com/56379930/121115714-aa43d880-c83f-11eb-9bfd-d96256e4c00b.png)
 
 # Pertanyaan dan Tugas
